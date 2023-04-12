@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cliente dinamico\Cliente dinamico\bin\Debug\Cliente dinamico.exe.config
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cliente dinamico\Cliente dinamico\bin\Debug\Cliente dinamico.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cliente dinamico\Cliente dinamico\bin\Debug\Cliente dinamico.pdb
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cliente dinamico\Cliente dinamico\obj\Debug\Cliente dinamico.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cliente dinamico\Cliente dinamico\obj\Debug\Cliente dinamico.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cliente dinamico\Cliente dinamico\obj\Debug\Cliente dinamico.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cliente dinamico\Cliente dinamico\obj\Debug\Cliente dinamico.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cliente dinamico\Cliente dinamico\obj\Debug\Cliente dinamico.pdb
