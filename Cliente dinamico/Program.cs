@@ -29,7 +29,7 @@ namespace Cliente_dinamico
 
             for (int i = 0; i < nomeCliente.Length;i++) 
             {
-                if (i <= contador)
+                if (i < contador)
                 {
                     Console.WriteLine(nomeCliente[i]);
                 }
